@@ -13,7 +13,7 @@ Project consists of creating a cat app using HTML involves designing a simple we
 
 <h2>Environments Used </h2>
 
-- <b></b> (21H2)
+- <b>macOS 14.6.1</b>
 
 <h2>Program walk-through:</h2>
 
