@@ -18,19 +18,22 @@ Project consists of creating a cat app using HTML involves designing a simple we
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Using HTML structure set up main content: a heading, an image element for displaying cat images, a button for generating new cat images, and a paragraph element for showing cat facts.
+ <br/>
 <img src="https://imgur.com/V77p99h.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Basic styling to center content, style buttons, and ensure images are responsive.  <br/>
 <img src="https://imgur.com/Dg88hBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Open Your HTML File: Save the file and open it in a web browser to test the functionality.
+Check Image Updates: Click the button to ensure that a new cat image is displayed and the cat fact changes. <br/>
 <img src="https://imgur.com/yhSxcEI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
+
+<br/>
 </p>
 
 <!--
